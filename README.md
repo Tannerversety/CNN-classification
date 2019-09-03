@@ -7,3 +7,5 @@ Utilisation de réseaux de neurones convolutif (CNN) pour effectuer de la classi
 - une fonction python utilisée pour la prédiction (utilise un fichier 'name' pour fonctionner)
 
 le modèle .h5 contenant les poids est disponible sur google drive
+
+Necessite l'installation de keras-tensorflow 1.2 ainsi que d'OpenCv Pandas et Scikit-learn
