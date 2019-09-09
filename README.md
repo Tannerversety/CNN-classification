@@ -9,3 +9,6 @@ Utilisation de réseaux de neurones convolutif (CNN) pour effectuer de la classi
 le modèle .h5 contenant les poids est disponible sur google drive
 
 Necessite l'installation de keras-tensorflow 1.2 ainsi que d'OpenCv Pandas et Scikit-learn
+
+Une version "test" est disponible sur notre API
+http://tannerr.pythonanywhere.com/index_api/
